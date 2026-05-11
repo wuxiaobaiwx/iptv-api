@@ -1,12 +1,14 @@
 🕘️更新时间,#genre#
-2026-05-11 20:33:59,https://cdn3.163189.xyz/163189/cctv13
+2026-05-12 06:44:47,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
@@ -15,7 +17,6 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️福建频道,#genre#
 
