@@ -1,10 +1,12 @@
 🕘️更新时间,#genre#
-2026-05-15 06:47:40,https://cdn3.163189.xyz/163189/cctv13
+2026-05-15 19:47:21,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 ☘️重庆频道,#genre#
 
@@ -19,3 +21,5 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 ☘️安徽频道,#genre#
 
 ☘️青海频道,#genre#
+
+🏀体育频道,#genre#
