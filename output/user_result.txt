@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 19:15:59,http://198.204.240.250:82/live/cctv1.m3u8
+2026-07-05 06:44:38,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -14,7 +14,6 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️河南频道,#genre#
 梨园,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
