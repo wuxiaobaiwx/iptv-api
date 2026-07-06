@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-06 21:39:15,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
+2026-07-07 06:56:51,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
 
 📺央视频道,#genre#
 
@@ -10,8 +10,6 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -28,7 +26,3 @@
 ☘️青海频道,#genre#
 
 🏀体育频道,#genre#
-
-🪁动画频道,#genre#
-
-🎵音乐频道,#genre#
