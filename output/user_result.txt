@@ -1,12 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-08 06:50:38,http://123.163.114.168:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-08 19:45:10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://123.163.114.168:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://123.163.114.168:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -14,13 +9,16 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 📡卫视频道,#genre#
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
+☘️广东频道,#genre#
+
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
 
-☘️四川频道,#genre#
+☘️天津频道,#genre#
 
-☘️福建频道,#genre#
+☘️四川频道,#genre#
+荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️河南频道,#genre#
 梨园,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
@@ -34,3 +32,7 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 ☘️青海频道,#genre#
 
 🏀体育频道,#genre#
+
+🪁动画频道,#genre#
+
+🎵音乐频道,#genre#
