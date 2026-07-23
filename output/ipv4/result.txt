@@ -1,21 +1,20 @@
 🕘️更新时间,#genre#
-2026-07-23 06:52:45,http://121.57.88.206:898/hls/3/index.m3u8
+2026-07-23 19:45:22,http://222.223.41.27:8888/hls/7/index.m3u8
 
 📺央视频道,#genre#
-CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
-CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://222.223.41.27:8888/hls/7/index.m3u8
-CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
-CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📡卫视频道,#genre#
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
+☘️广东频道,#genre#
+
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
@@ -30,3 +29,5 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 ☘️青海频道,#genre#
 
 🏀体育频道,#genre#
+
+🪁动画频道,#genre#

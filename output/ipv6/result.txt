@@ -1,19 +1,21 @@
 🕘️更新时间,#genre#
-2026-07-23 06:52:45,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
+2026-07-23 19:45:22,url
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
+☘️广东频道,#genre#
+
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
 
+☘️天津频道,#genre#
+
 ☘️四川频道,#genre#
 
 ☘️河南频道,#genre#
-洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
-洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 
 ☘️新疆频道,#genre#
 
@@ -22,3 +24,5 @@
 ☘️青海频道,#genre#
 
 🏀体育频道,#genre#
+
+🪁动画频道,#genre#
