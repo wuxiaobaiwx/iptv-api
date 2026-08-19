@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-19 18:26:03,http://r.jdshipin.com/GeWKr
+2026-08-20 06:17:59,http://r.jdshipin.com/GeWKr
 
 📺央视频道,#genre#
 
@@ -8,8 +8,6 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-
-☘️上海频道,#genre#
 
 ☘️重庆频道,#genre#
 
@@ -34,8 +32,12 @@
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,http://r.jdshipin.com/CkuBd
 
+🎬电影频道,#genre#
+
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
