@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-26 06:15:47,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
+2026-08-26 18:26:28,http://r.jdshipin.com/GeWKr
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 
 ☘️广东频道,#genre#
 
