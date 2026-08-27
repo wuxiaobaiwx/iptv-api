@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-26 18:26:28,http://r.jdshipin.com/GeWKr
+2026-08-27 10:24:15,http://r.jdshipin.com/GeWKr
 
 📺央视频道,#genre#
 
@@ -24,11 +24,11 @@
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-明珠台,https://cdn.qd.je/163189/mzt
 明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,https://cdn.qd.je/163189/mzt
 凤凰香港,https://cdn.qd.je/163189/fhhk
-无线新闻,https://cdn6.cc.cd/163189/wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+无线新闻,https://cdn6.cc.cd/163189/wxxwt
 
 🎬电影频道,#genre#
 
