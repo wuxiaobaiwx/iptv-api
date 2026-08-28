@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-28 13:54:33,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-08-29 05:03:36,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
-
-☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
@@ -29,15 +28,14 @@
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://cdn.qd.je/163189/mzt
+明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰香港,https://cdn.qd.je/163189/fhhk
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
 
 🎬电影频道,#genre#
-
-🏀体育频道,#genre#
+无线星河,http://r.jdshipin.com/Voac4
 
 🪁动画频道,#genre#
 
