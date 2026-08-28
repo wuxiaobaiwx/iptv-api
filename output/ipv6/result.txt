@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 04:05:35,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-08-28 13:54:33,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -15,8 +15,6 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
