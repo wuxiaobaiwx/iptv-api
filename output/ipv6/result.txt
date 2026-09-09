@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-09-09 22:02:35,https://cdn3.indevs.in/stream/tvb/fct/
+2026-09-10 07:39:49,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 ☘️浙江频道,#genre#
 
@@ -24,8 +25,8 @@
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/GeWKr
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://cdn.qd.je/163189/mzt
 凤凰香港,https://cdn.qd.je/163189/fhhk
