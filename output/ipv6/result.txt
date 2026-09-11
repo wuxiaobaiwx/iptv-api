@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 21:57:57,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-09-12 07:40:59,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -27,8 +27,8 @@
 🌊港·澳·台,#genre#
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/GeWKr
-明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://cdn.qd.je/163189/mzt
+明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰香港,https://cdn.qd.je/163189/fhhk
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
