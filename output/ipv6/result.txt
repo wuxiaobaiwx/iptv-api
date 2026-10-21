@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-21 08:14:09,https://cdn3.indevs.in/stream/tvb/fct/
+2026-10-21 22:45:15,https://cdn3.indevs.in/stream/tvb/fct/
 
 📺央视频道,#genre#
 
@@ -27,5 +27,6 @@
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
 
+🎵音乐频道,#genre#
+
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/23865142
