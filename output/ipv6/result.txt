@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-22 23:04:00,https://cdn3.indevs.in/stream/tvb/fct/
+2026-10-23 08:15:00,https://cdn3.indevs.in/stream/tvb/fct/
 
 📺央视频道,#genre#
 
@@ -21,12 +21,10 @@
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://cdn.qd.je/163189/mzt
+明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰香港,https://cdn.qd.je/163189/fhhk
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
-
-🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
