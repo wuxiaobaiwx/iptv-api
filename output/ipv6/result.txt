@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-31 09:11:22,https://cdn3.indevs.in/stream/tvb/fct/
+2026-10-31 23:32:25,https://cdn3.indevs.in/stream/tvb/fct/
 
 📺央视频道,#genre#
 
@@ -25,3 +25,5 @@
 明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰香港,https://cdn.qd.je/163189/fhhk
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
+
+🎵音乐频道,#genre#
