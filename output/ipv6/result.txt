@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-24 13:51:18,https://cdn6.cc.cd/163189/wxxwt
+2026-11-25 04:26:16,https://cdn6.cc.cd/163189/wxxwt
 
 📺央视频道,#genre#
 
@@ -23,3 +23,5 @@
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
